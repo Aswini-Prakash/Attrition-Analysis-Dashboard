@@ -1,4 +1,4 @@
-Attrition Analysis Dashboard Overview
+Attrition Analysis Dashboard Overview :
 This Attrition Analysis Dashboard is designed to provide a comprehensive view of employee attrition within an organization. It leverages key metrics and visualizations to offer insights into trends and patterns related to employee departures.
 
 Key Metrics Displayed:
