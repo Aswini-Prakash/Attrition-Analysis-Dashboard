@@ -1,6 +1,9 @@
 Attrition Analysis Dashboard Overview :
 This Attrition Analysis Dashboard is designed to provide a comprehensive view of employee attrition within an organization. It leverages key metrics and visualizations to offer insights into trends and patterns related to employee departures.
 
+![image](https://github.com/user-attachments/assets/3f928ea5-be75-48e0-9902-1ee636def42f)
+
+
 Key Metrics Displayed:
 Total Employees (1470): Shows the total number of employees within the organization.
 Employees Quit (237): The number of employees who have left the organization.
